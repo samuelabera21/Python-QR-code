@@ -8,7 +8,7 @@ Scan the QR code below to open my portfolio:
   </a>
 </p>
 
-Portfolio: [samuel-abera-mekonn.netlify.app](https://samuel-abera-mekonn.netlify.app/)
+
 
 ## Generate the QR code
 
