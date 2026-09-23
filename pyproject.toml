@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools>=77.0.3"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "portfolio-qr"
+version = "0.1.0"
+description = "A simple Python application that generates a QR code for my portfolio"
+requires-python = ">=3.10"
+dependencies = [
+    "qrcode[pil]>=8.2"
+]
